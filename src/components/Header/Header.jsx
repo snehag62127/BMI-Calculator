@@ -11,7 +11,7 @@ const Header = () => {
         <div>
           {/* <img src='https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167' alt='bmi' hspace='330'></img> */}
           <center>
-          <img src="https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167" class="img-fluid" alt="bmi" height={300} width={300}></img>
+          <img src="https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167" class="img-fluid" alt="bmi" height={320} width={320}></img>
           </center>
           
         </div>

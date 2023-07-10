@@ -2,3 +2,9 @@ h1{
     color: rgb(230, 32, 88);
     font-size: 3rem;
 }
+
+@media only screen and (max-width: 400px) {
+    h1 {
+      font-size: 2rem;
+    }
+  }
